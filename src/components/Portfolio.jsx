@@ -209,16 +209,18 @@ const Portfolio = () => {
                 Engineering software solutions across <span className="text-blue-400">AI</span>,
                 <span className="text-blue-400"> Mobile</span>, and <span className="text-blue-400">Distributed Systems</span>.
               </p>
-
-              <div className="flex gap-4">
-                <a href="https://github.com/jeromeshaiju" target="_blank" rel="noopener noreferrer" className="w-16 h-16 rounded-full border border-white/10 flex items-center justify-center hover:bg-white hover:text-slate-950 transition-all duration-500 shadow-lg">
+            </div>
+              <div className="flex gap-4 gap-y-6 mt-12">
+                <a href="https://github.com/jeromeshaiju" target="_blank" rel="noopener noreferrer" className="w-40 h-16 rounded-full border border-white/10 flex items-center justify-center hover:bg-white hover:text-slate-950 transition-all duration-500 shadow-lg">
                   <Icons.Github />
                 </a>
-                <a href="https://www.linkedin.com/in/jerome-shaiju-k-c-6b18922a5/" target="_blank" rel="noopener noreferrer" className="w-16 h-16 rounded-full border border-white/10 flex items-center justify-center hover:bg-blue-600 hover:text-white hover:border-blue-600 transition-all duration-500 shadow-lg">
+                <a href="https://www.linkedin.com/in/jerome-shaiju-k-c-6b18922a5/" target="_blank" rel="noopener noreferrer" className="w-40 h-16 rounded-full border border-white/10 flex items-center justify-center hover:bg-blue-600 hover:text-white hover:border-blue-600 transition-all duration-500 shadow-lg">
                   <Icons.Linkedin />
                 </a>
+                <a href="https://www.instagram.com/jerome.shaiju/" target="_blank" rel="noopener noreferrer" className="w-40 h-16 rounded-full border border-white/10 flex items-center justify-center hover:bg-pink-500 hover:text-white hover:border-pink-500 transition-all duration-500 shadow-lg">
+                  <Icons.Instagram />
+                </a>
               </div>
-            </div>
           </div>
         </div>
       </section>
